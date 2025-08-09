@@ -1,0 +1,61 @@
+# Node dependencies and modules
+node_modules/
+
+# Python environment and cache
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+*.env
+
+# Uploaded files (backend)
+uploads/
+
+# Build directories
+build/
+dist/
+frontend/build/
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variables file
+.env*.local
+
+# macOS files
+._*
+
+# Windows files
+ehthumbs.db
+[Tt]humbs.db
+Desktop.ini
